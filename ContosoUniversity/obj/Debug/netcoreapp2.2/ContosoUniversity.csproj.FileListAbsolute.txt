@@ -35,3 +35,4 @@ C:\Users\jamekaechols\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug
 C:\Users\jamekaechols\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\jamekaechols\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\jamekaechols\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\jamekaechols\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
